@@ -1,4 +1,4 @@
-# Construction_de_table_de_mortalite
+# Construction de table de mortalite
 
 ## Objectif
 Construire et analyser une table de mortalité à partir de données démographiques (INSEE ou simulées).  
