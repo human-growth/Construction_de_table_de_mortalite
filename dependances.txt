@@ -1,0 +1,6 @@
+Les principales dépendances du projet sont :
+-pandas,
+-numpy,
+-matplotlib,
+-jupyterlab,
+-pytest
